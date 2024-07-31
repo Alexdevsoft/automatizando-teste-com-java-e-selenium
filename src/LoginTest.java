@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class LoginTest {
     public static void main(String[] args) {
         // Configura o driver do Chrome
-        System.setProperty("webdriver.chrome.driver", "automacao-java-selenium/drivers/chrome");
+        System.setProperty("webdriver.chrome.driver", "drivers/chrome");
         WebDriver driver = new ChromeDriver();
 
         // Navega até a página de login local
