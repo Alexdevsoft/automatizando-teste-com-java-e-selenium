@@ -30,3 +30,4 @@ Este projeto demonstra como automatizar testes de interface de usuário utilizan
    git clone https://github.com/Alexdevsoft/automatizando-teste-com-java-e-selenium
 
    ```
+========================================================================================================================
